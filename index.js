@@ -23,7 +23,7 @@
 // }
 
 function BoardMember(name, homeState, training){
-  thi.name = name;
+  this.name = name;
   this.homeState = homeState;
   this.training = training;
 }
