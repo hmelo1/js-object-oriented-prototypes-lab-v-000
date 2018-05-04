@@ -35,6 +35,3 @@ BoardMember.prototype.veto = function(){
 BoardMember.prototype.approve = function(){
   return 'You can do that!'
 }
-BoardMember.prototype.
-BoardMember.prototype.
-BoardMember.prototype.
